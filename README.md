@@ -2,7 +2,7 @@
 
 <aside middle>
 💡 빅데이터 분석 프로젝트
-[TOC]
+
 <div align=center>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Pandas" src ="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -17,11 +17,10 @@
 <img alt="google drive" src ="https://img.shields.io/badge/Googlecolab%20Drive-%234285F4.svg?&style=for-the-badge&logo=Googlecolab&logoColor=white"/> 
 <img alt="google colab" src ="https://img.shields.io/badge/google%20colab-%23F9AB00.svg?&style=for-the-badge&logo=googledrive&logoColor=white"/>
 <br>
-
-<br>
-
-<br>
-
+</div>
+<br/>
+<br/>
+  
 # 1. 프로젝트 소개
 
 ### 📈 주제
@@ -69,7 +68,7 @@
 
 # 2. Code
 
-https://github.com/Hongbi-Kim/Writing_lyrics
+https://github.com/Hongbi-Kim/Project_predict_future_sales
 
 <br>
 
